@@ -3,4 +3,9 @@ is
 a 
 file 
 one
+<<<<<<< HEAD
 This is the example for revert
+=======
+
+This is to reset files which are commited
+>>>>>>> parent of e4f054d... Three files
